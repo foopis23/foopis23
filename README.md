@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Eric Sexton. I'm a Full Stack Developer from 🇺🇸 Fort Wayne.
+I'm Eric Sexton. I'm a Full Stack Developer from Fort Wayne, Indiana.
 
 ### Things I use while programming
 #### Tools
