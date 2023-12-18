@@ -1,7 +1,7 @@
-## Hi, I'm Eric Sexton 👋
-- 👨‍💻 I'm a Full Stack Developer based in Fort Wayne.
-- 🤩 I'm really motivated by learning new things and exploring new technologies
-- 👨‍🍳 My hobbies include Game Development and Cooking
+## Hi, I'm Eric Sexton
+- I'm a Full Stack Software Engineer based in Fort Wayne.
+- I'm really motivated by learning new things and exploring new technologies
+- My hobbies include Game Development and Cooking
 
 ## My Tools
 <p align="center">
