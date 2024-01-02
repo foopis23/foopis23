@@ -1,7 +1,7 @@
 ## Hi, I'm Eric Sexton
 - I'm a Full Stack Software Engineer based in Fort Wayne.
-- I'm really motivated by learning new things and exploring new technologies
-- My hobbies include Game Development and Cooking
+- I'm all about diving into new stuff and geeking out on the latest tech trends.
+- My hobbies include game development, coffee brewing, and cooking
 
 ## My Tools
 <p align="center">
@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="Godot Engine" />
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
 </p>
 
 <!--
