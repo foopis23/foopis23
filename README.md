@@ -1,5 +1,5 @@
 ## Hi, I'm Eric Sexton
-- I'm a Full Stack Software Engineer based in Fort Wayne.
+- I'm a Fullstack Software Engineer based in Fort Wayne.
 - I'm all about diving into new stuff and geeking out on the latest tech trends.
 - My hobbies include cycling, game development, and cooking
 
