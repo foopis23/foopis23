@@ -3,6 +3,10 @@
 - I'm all about diving into new stuff and geeking out on the latest tech trends.
 - My hobbies include cycling, game development, and cooking
 
+## What am I working on?
+1. Starting a game studio
+2. Whatever the hyperfixation of the week is
+
 ## My Tools
 | <h3>Web Development</h3> | <h3>Game Development</h3> |
 | --- | --- |
